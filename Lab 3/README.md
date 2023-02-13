@@ -22,6 +22,9 @@ A menu-driven main method implementing the functions and functionality
 Plan your program with a flow chart before starting with coding.
 Since you are using functions, plan what should be the returning values and how to implement them.
 
+![flow chart of the programme](https://user-images.githubusercontent.com/118046310/218381234-fc713164-304b-405f-b30a-d19862878219.jpg)
+
+
 **********OUTPUT***************
  ********* WELCOME IN TO THE PROGRAMME *********
 ********** MAKE YOUR CHOICE            ********* 
