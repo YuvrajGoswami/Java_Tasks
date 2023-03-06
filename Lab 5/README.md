@@ -17,6 +17,7 @@ Your program should have two functions, one for encryption and another for decry
 
 Draw a flow chart for your program and write the pseudocode before starting the coding in your observation notebook.
 ------------------------- FLOWCHART -------------------------
+![image](https://user-images.githubusercontent.com/118046310/223028861-99d4084b-5417-4838-9c1a-bd9b95613e6a.png)
 
 
 ------------------------- OUTPUT -------------------------
