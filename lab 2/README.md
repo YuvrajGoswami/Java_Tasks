@@ -40,3 +40,7 @@ Removing a name should not create empty space inside the array!
 Format your results properly!!
 
 # Flow Chart
+
+![Lab2](https://github.com/YuvrajGoswami/22122060-MDS273L-JAVA/assets/118046310/984ba60e-e025-4b6d-9af2-25bc827e2e13)
+
+#Output
