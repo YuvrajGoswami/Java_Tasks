@@ -14,6 +14,8 @@ Identify if the employee belongs to the top MNC Companies (Facebook, Google, Mic
 
 # Note: Your program should be neatly organized, with appropriate comments, variable names, proper input output formatting, and necessary validations.
   
+# Flow Chart
+  
   
   ![Lab1 flow chart](https://github.com/YuvrajGoswami/22122060-MDS273L-JAVA/assets/118046310/69fd42f5-8c5b-4f7b-b88c-035cb6eee647)
 
