@@ -14,7 +14,7 @@ Once the program is complete Add the code to GitHub under the folder Lab 6. Crea
 ![Lab 6](https://github.com/YuvrajGoswami/22122060-MDS273L-JAVA/assets/118046310/59522012-3a96-490e-b5e9-55525b7b1370)
 
 
-------------------- OUTPUT ---------------------------
+# OUTPUT 
 
 ---- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 1
 
