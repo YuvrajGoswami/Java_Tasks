@@ -14,7 +14,7 @@ Identify if the employee belongs to the top MNC Companies (Facebook, Google, Mic
 
 # Note: Your program should be neatly organized, with appropriate comments, variable names, proper input output formatting, and necessary validations.
 
----------------------------------------------------------------------------# Result--------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------- # Result --------------------------------------------------------------------------------------------------------
 # 22122060-MDS273L-JAVA
 Employee name
 Yuvraj Giri
