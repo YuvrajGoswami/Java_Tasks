@@ -51,8 +51,8 @@ Format your results properly!!
 4. Show person
 5. Exit
 ******************
-Enter choise which you want perform: 1
-1. Enter a name : Yuvraj
+Enter choice which you want perform: 1
+1. Enter a name : Yuvraj Giri
 
 ******************
 1. Enter a name
@@ -61,27 +61,7 @@ Enter choise which you want perform: 1
 4. Show person
 5. Exit
 ******************
-Enter choise which you want perform: 1
-1. Enter a name : Darvesh
-
-******************
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show person
-5. Exit
-******************
-Enter choise which you want perform: 1
-1. Enter a name : Kaustav
-
-******************
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show person
-5. Exit
-******************
-Enter choise which you want perform: 1
+Enter choice which you want perform: 1
 1. Enter a name : Dashrath
 
 ******************
@@ -91,18 +71,8 @@ Enter choise which you want perform: 1
 4. Show person
 5. Exit
 ******************
-Enter choise which you want perform: 2
-2. Search for a name : Dashrath
-Dashrath is in person list......
-******************
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show person
-5. Exit
-******************
-Enter choise which you want perform: 3
-3. Remove a name: Dashrath
+Enter choice which you want perform: 1
+1. Enter a name : Darvesh
 
 ******************
 1. Enter a name
@@ -111,9 +81,39 @@ Enter choise which you want perform: 3
 4. Show person
 5. Exit
 ******************
-Enter choise which you want perform: 5
+Enter choice which you want perform: 1
+1. Enter a name : Yuvraj Goswami
+
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choice which you want perform: 2
+2. Search for a name : Yuvraj Giri
+Yuvraj Giri is in person list......
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choice which you want perform: 3
+3. Remove a name: Yuvraj Goswami
+
+******************
+1. Enter a name
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choice which you want perform: 5
 4. Exit......
-
 
 
 
