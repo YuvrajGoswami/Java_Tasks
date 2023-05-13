@@ -25,9 +25,8 @@ Since you are using functions, plan what should be the returning values and how 
 ![flow chart of the programme](https://user-images.githubusercontent.com/118046310/218381234-fc713164-304b-405f-b30a-d19862878219.jpg)
 
 
-**********OUTPUT***************
- ********* WELCOME IN TO THE PROGRAMME *********
-********** MAKE YOUR CHOICE            ********* 
+ ********* WELCOME TO THE PROGRAMME *********
+********** MAKE YOUR CHOICE            *********
       Press 1 to collect the details.
       Press 2 to display the details.
       Press 3 to search a student.
@@ -38,25 +37,25 @@ How many students you want to enter: 3
 ....... Enter Details of student 1 ...
 Enter Name: Yuvraj Giri
 Enter Register No.: 22122060
-Enter Email: Yuvraj@gmail.com
-Enter Class: mscds
-Enter Department: data science
-
-....... Enter Details of student 2 ...
-Enter Name: Dashrath
-Enter Register No.: 22122039
-Enter Email: Dashrath@gmail.com
-Enter Class: mscds
-Enter Department: data sciene
-
-....... Enter Details of student 3 ...
-Enter Name: jayesh
-Enter Register No.: 22122017
-Enter Email: Jayesh@gmail.com
-Enter Class: ,scds
+Enter Email: yuvraj.giri@msds.christuniversity.in
+Enter Class: mscds a
 Enter Department: Data science
 
- ********* WELCOME IN TO THE PROGRAMME *********
+....... Enter Details of student 2 ...
+Enter Name: Darvesh
+Enter Register No.: 22122018
+Enter Email: Yuvraj@msds.christuniversity.in
+Enter Class: mscds a
+Enter Department: Datascience
+
+....... Enter Details of student 3 ...
+Enter Name: Darveshjnej
+Enter Register No.: 22122080
+Enter Email: YUvraj@msdsgmail.com
+Enter Class: 2mscds a
+Enter Department: Data science
+
+ ********* WELCOME TO THE PROGRAMME *********
 ********** MAKE YOUR CHOICE            *********
       Press 1 to collect the details.
       Press 2 to display the details.
@@ -70,46 +69,51 @@ Enter Department: Data science
 *************** Student 1 Details ***************
          Name: Yuvraj Giri
          Register No.: 22122060
-         Email: Yuvraj@gmail.com
-         Class: mscds
-         Department: data science
-
-*************** Student 2 Details ***************
-         Name: Dashrath
-         Register No.: 22122039
-         Email: Dashrath@gmail.com
-         Class: mscds
-         Department: data sciene
-
-*************** Student 3 Details ***************
-         Name: jayesh
-         Register No.: 22122017
-         Email: Jayesh@gmail.com
-         Class: ,scds
+         Email: yuvraj.giri@msds.christuniversity.in
+         Class: mscds a
          Department: Data science
 
- ********* WELCOME IN TO THE PROGRAMME *********
+*************** Student 2 Details ***************
+         Name: Darvesh
+         Register No.: 22122018
+         Email: Yuvraj@msds.christuniversity.in
+         Class: mscds a
+         Department: Datascience
+
+*************** Student 3 Details ***************
+         Name: Darveshjnej
+         Register No.: 22122080
+         Email: YUvraj@msdsgmail.com
+         Class: 2mscds a
+         Department: Data science
+
+ ********* WELCOME TO THE PROGRAMME *********
 ********** MAKE YOUR CHOICE            *********
       Press 1 to collect the details.
       Press 2 to display the details.
       Press 3 to search a student.
       Press 4 for exit.1
-
 *********Enter your choice: **********3
 Search Name: Yuvraj Giri
 
 *************** Student Yuvraj Giri Details ***************
          Name: Yuvraj Giri
          Register No.: 22122060
-         Email: Yuvraj@gmail.com
-         Class: mscds
-         Department: data science
+         Email: yuvraj.giri@msds.christuniversity.in
+         Class: mscds a
+         Department: Data science
 
- ********* WELCOME IN TO THE PROGRAMME *********
+ ********* WELCOME TO THE PROGRAMME *********
+********** MAKE YOUR CHOICE            *********
+      Press 1 to collect the details.
+      Press 2 to display the details.
+
+ ********* WELCOME TO THE PROGRAMME *********
 ********** MAKE YOUR CHOICE            *********
       Press 1 to collect the details.
       Press 2 to display the details.
       Press 3 to search a student.
       Press 4 for exit.1
 *********Enter your choice: **********4
-PS C:\Users\Yuvraj\Downloads\javalabs\22122060-MDS273L-JAVA\Lab 3>
+PS C:\Users\Yuvraj\Downloads\self practice>
+
