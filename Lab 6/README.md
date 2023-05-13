@@ -16,31 +16,96 @@ Once the program is complete Add the code to GitHub under the folder Lab 6. Crea
 
 # OUTPUT 
 
----- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 1
 
-**** Enter Student 1 Details **** Reg No : 22122060 Name : Yuvraj Email : Yuvraj@gmail.com Phone : 9315506264 Class: MScDS A Departement: data science file exist
+**************************************
+---- Your Choices: -------------------
+---- 1. Add a student -----------------
+---- 2. Search for a student ----------
+---- 3. Update the details of a student
+---- 4. Display all students ----------
+---- 5. Exit --------------------------
+Enter Choice: 1
 
----- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 1
+**** Enter Student 1 Details ****
+Reg No : 22122060
+Name : Yuvraj Giri
+Email : yuvraj@msds.christuniversity.in
+Phone : 9239218321   
+Class: mscds
+Departement: data science
+file not exist
+file created
 
-**** Enter Student 2 Details **** Reg No : 22122034 Name : Ashish Email : Ashish@gmail.com Phone : 985741201 Class: MScDs A Departement: Data Science file not exist file created
+**************************************
+---- Your Choices: -------------------
+---- 1. Add a student -----------------
+---- 2. Search for a student ----------
+---- 3. Update the details of a student
+---- 4. Display all students ----------
+---- 5. Exit --------------------------
+Enter Choice: 1  
 
----- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 2 Search Student by.....
+**** Enter Student 2 Details ****
+Reg No : 22122018
+Name : darvesh
+Email : darvesh@msds.christ.in
+Phone : 232131244  
+Class: mscds a
+Departement: data science
+file not exist
+file created
 
-Name
-Register No Press (1 Or 2): 1 Enter Student Name: Yuvraj
-**** Details of Yuvraj . **** Reg No : 22122060 Name : Yuvraj Email :Yuvraj@gmail.com Phone: 9315506264 Class : MScDS A Department :data science
+**************************************
+---- Your Choices: -------------------
+---- 1. Add a student -----------------
+---- 2. Search for a student ----------
+---- 3. Update the details of a student
+---- 4. Display all students ----------
+---- 5. Exit --------------------------
+Enter Choice: 2
+Search Student by.....
+ 1. Name
+ 2. Register No
+Press (1 Or 2):
+1
+Enter Student Name: Darvesh
 
----- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 2 Search Student by.....
+**** Details of a darvesh . ****
+Reg No : 22122018
+Name : darvesh
+Email :darvesh@msds.christ.in
+Phone: 232131244
+Class : mscds a
+Department :data science
 
-Name
-Register No Press (1 Or 2): 2
-Enter Student Register no: 22122034
-**** Details of a Ashish . **** Reg No : 22122034 Name : Ashish Email :Ashish@gmail.com Phone: 985741201 Class : MScDs A Department :Data Science
+**************************************
+---- Your Choices: -------------------
+---- 1. Add a student -----------------
+---- 2. Search for a student ----------
+---- 3. Update the details of a student
+---- 4. Display all students ----------
+---- 5. Exit --------------------------
+Enter Choice: 3
+Enter Student Register no: 22122060
+Name : Yuvraj Giri
+Email : yuvraj@msds.christuniversity.in
+Phone : 231232132
+Class: mscds a
+Departement: Data science
+file exist
 
----- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 3 Enter Student Register no: 22122034 Name : Ashish pipaliya Email : Ashish.pipaliya@gmail.com Phone : 6532145236 Class: MScDSA Departement: data Science file not exist file created
-
----- Your Choices: ------------------- ---- 1. Add a student ----------------- ---- 2. Search for a student ---------- ---- 3. Update the details of a student ---- 4. Display all students ---------- ---- 5. Exit -------------------------- Enter Choice: 4
-
-**** Details of a Yuvraj . **** Reg No : 22122060 Name : Yuvraj Email :Yuvraj@gmail.com Phone: 9315506264 Class : MScDS A Department :data science
-
-**** Details of a Ashish pipaliya . **** Reg No : 22122034 Name : Ashish pipaliya Email :Ashish.pipaliya@gmail.com Phone: 6532145236 Class : MScDSA Department :data Science
+**************************************
+---- Your Choices: -------------------
+---- 1. Add a student -----------------
+---- 2. Search for a student ----------
+---- 3. Update the details of a student
+---- 4. Display all students ----------
+---- 5. Exit --------------------------
+Enter Choice: 4
+Name : darvesh
+Email :darvesh@msds.christ.in
+Phone: 232131244
+Class : mscds a
+Department :data science
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke "Student.display()" because "<local2>[<local18>]" is null
+        at random.main(random.java:150)
