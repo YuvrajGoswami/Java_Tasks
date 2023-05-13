@@ -1,84 +1,104 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class lab2 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String[] names = new String[1024];
-        Boolean flag = false;
-        int i = 0;
+        Scanner scan = new Scanner(System.in);
+        String person[] = new String[1024];
+        int c = 0, ch, x = 0;
+
         do {
+            System.out.println("\n******************");
+            System.out.println("1. Enter a name");
+            System.out.println("2. Search for a name");
+            System.out.println("3. Remove a name");
+            System.out.println("4. Show person");
+            System.out.println("5. Exit");
+            System.out.println("******************");
+            System.out.print("Enter choise which you want perform: ");
+            ch = Integer.parseInt(scan.nextLine());
+            String nm;
+            int y = -1;
+            int a = 0;
+            int flag = 1;
+            switch (ch) {
 
-            flag = true;
-            System.out.println("1.Enter the name");
-            System.out.println("2.Search for a name");
-            System.out.println("3.Remove a name");
-            System.out.println("4.Print the name list");
-            System.out.println("5.Quit");
-            
-            System.out.println("Enter your choice: ");
-            int input = Integer.parseInt(sc.nextLine());
-
-            switch (input) {
-                case 1: {
-
-                    System.out.print("Enter your name: ");
-                    names[ii] = sc.nextLine();
-                    ii++;
-                    break;
-
-                }
-                case 2: {
-                    int j;
-                    System.out.println("Which name your are searching?.");
-                    String search = sc.nextLine();
-                    for (j = 0; j < names.length; j++) {
-                        if (search.equals(names[j])) {
-                            System.out.println("Name is found at position " + (j + 1));
-                            break;
-
+                case 1:
+                    System.out.print("1. Enter a name : ");
+                    nm = scan.nextLine();
+                    if(person[0]!=null){
+                        for (int i = 0; i < c; i++) {
+                            if (person[i].compareToIgnoreCase(nm) == 0) {
+                                System.out.print(person[i] + " Already Exist.......");
+                                flag = 0;
+                                break;
+                            }
                         }
-
+                        if (flag == 1) {
+                            for (int i=0 ;i<person.length;i++) {
+                                if(person[i]==null){
+                                    person[i] = nm;
+                                    break;
+                                }
+                                
+                            }
+                            
+                            break;
+                        }
+                    }else{
+                        person[0]=nm;
+                        break;
                     }
                     break;
-                }
-                case 3: {
-                    int j;
-                    System.out.println("Which name you want to delete. :");
-                    String ntemp = sc.nextLine();
-                    for (j = 0; j < names.length; j++) {
-                        if (ntemp.equals(names[j])) {
-                            for (; j < names.length - 1; j++) {
-                                names[j] = names[j + 1];
+                    
+                case 2:
+                    System.out.print("2. Search for a name : ");
+                    nm = scan.nextLine();
+                    for (int i = 0; i < person.length; i++) {
+                        if (person[i].equalsIgnoreCase(nm)) {
+                            System.out.print(nm + " is in person list......");
+                            a = 0;
+                            break;
+                        } else {
+                            a = a + 1;
+                        }
+                    }
+                    if (a >= 1) {
+                        System.out.print(nm + " is not in person list......");
+                    }
+                    break;
+                case 3:
+                    System.out.print("3. Remove a name: ");
+                    nm = scan.nextLine();
+
+                    for (int i = 0; i < person.length; i++) {
+                        if (person[i] != null) {
+                            if (person[i].equalsIgnoreCase(nm.toLowerCase())) {
+                                for (int j = i; j < person.length - 1; j++) {
+                                    person[j] = person[j + 1];
+                                    c = c - 1;
+                                }
 
                             }
-
                         }
-
                     }
                     break;
-
-                }
-                case 4: {
-                    System.out.println("Your list are: ");
-                    for (String a : names) {
-                        if (a != null) {
-                            System.out.print(a + ",");
+                case 4:
+                    for (int z = 0; z < person.length; z++) {
+                        if (person[z] != null) {
+                            System.out.print(person[z]+",");
                         }
-
                     }
-                    System.out.println();
                     break;
-                }
-                case 5: {
-
-                    System.out.println("Program will now wxit in 3.2.1..");
-                    flag = false;
+                case 5:
+                    System.out.print("4. Exit......");
+                    x = x + 1;
                     break;
-                }
 
+                default:
+                    System.out.print("Invalid Choise");
+                    break;
             }
+        } while (x == 0);
 
-        } while (flag);
-
-    }
+    }
 }
