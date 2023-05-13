@@ -19,10 +19,7 @@ Draw a flow chart for your program and write the pseudocode before starting the 
 ------------------------- FLOWCHART -------------------------
 ![image](https://user-images.githubusercontent.com/118046310/223028861-99d4084b-5417-4838-9c1a-bd9b95613e6a.png)
 
-
-------------------------- OUTPUT -------------------------
-PS C:\Users\Yuvraj\Downloads\javalabs\22122060-MDS273L-JAVA\Lab 5> javac lab5.java
-PS C:\Users\Yuvraj\Downloads\javalabs\22122060-MDS273L-JAVA\Lab 5> java lab5      
+# Output
 Press 1. For encryption
 Press 2. For decryption
 Press 3. For Exit
@@ -34,10 +31,11 @@ Press 1. For encryption
 Press 2. For decryption
 Press 3. For Exit
 Enter Your Choice: 2
-Enter The text for decryption: Yuvraj Singh
+Enter The text for decryption: Yuvraj Giri
 
-Your descrypted massage is: BXYUDM VLQJK
+Your descrypted massage is: BXYUDM JLUL
 Press 1. For encryption
 Press 2. For decryption
 Press 3. For Exit
 Enter Your Choice: 3
+PS C:\Users\Yuvraj\Downloads\self practice> 
