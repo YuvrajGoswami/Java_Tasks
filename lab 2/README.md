@@ -43,4 +43,78 @@ Format your results properly!!
 
 ![Lab2](https://github.com/YuvrajGoswami/22122060-MDS273L-JAVA/assets/118046310/984ba60e-e025-4b6d-9af2-25bc827e2e13)
 
+# Output
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 1
+1. Enter a name : Yuvraj
+
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 1
+1. Enter a name : Darvesh
+
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 1
+1. Enter a name : Kaustav
+
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 1
+1. Enter a name : Dashrath
+
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 2
+2. Search for a name : Dashrath
+Dashrath is in person list......
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 3
+3. Remove a name: Dashrath
+
+******************
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Show person
+5. Exit
+******************
+Enter choise which you want perform: 5
+4. Exit......
+
+
+
+
 
