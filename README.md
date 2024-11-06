@@ -1,1 +1,1 @@
-# This repository contains tasks related to java.
+# This repository contains tasks related to Java.
